@@ -1,0 +1,26 @@
+@import "variables";
+.bg{
+    background-color: $negro;
+}
+ul{
+   li{
+       list-style-type:none; 
+       color: blue;
+}
+} 
+a {
+    outline: none;
+    text-decoration: none;
+    color: $negro;
+}
+
+.imgscala:hover{
+    transition: all 1s;
+  transform: scale(1.2,1.2);
+  }
+  
+  .imgtraslade:active{
+    transition: all 1s;
+    transform:  scale(2) rotate(360deg);
+  
+  }
