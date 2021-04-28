@@ -1,0 +1,3 @@
+Agregue keywords y descriptions en las html necesarias.
+Agrege el XML sitemaps.
+Modifique los titulos de la pagina acorde para cada de seccion como por ejemplo Principal | Secundaria.
