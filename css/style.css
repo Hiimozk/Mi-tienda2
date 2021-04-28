@@ -17,3 +17,6 @@ a {
 .imgtraslade:active {
   transition: all 1s;
   transform: scale(2) rotate(360deg); }
+
+.fond-footer {
+  background-color: #616568; }
