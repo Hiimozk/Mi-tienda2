@@ -1,3 +1,8 @@
 Agregue keywords y descriptions en las html necesarias.
 Agrege el XML sitemaps.
 Modifique los titulos de la pagina acorde para cada de seccion como por ejemplo Principal | Secundaria.
+----Ultima entrega
+Modificaciones Footer color y container-fluid-
+Modificaciones en las secciones carnes,vegetales y lacteos (Productos en cards)-
+Footer Redes sociales con  target="_blank"-
+
