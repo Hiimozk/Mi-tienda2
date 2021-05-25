@@ -16,7 +16,7 @@ Arreglado vista movil de barra de busqueda y botones superiores-
 Agregadas descriciones en cada pagina de secciones y precios a productos-
 Agregado mapa ubicacion- no pude darle margen al mapa+-
 Agregada seccion empresa a la cual se accede desde el footer con historia de la empresa-
-Ya no hay errores de scroll horizontal.
+Ya no hay errores de scroll horizontal. -- Modificaciones de display en ciertos elementos que en smartphon quedaban largos, ocultados para vista chica
 
 
 
