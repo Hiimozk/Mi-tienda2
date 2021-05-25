@@ -19,6 +19,15 @@ Agregada seccion empresa a la cual se accede desde el footer con historia de la 
 Ya no hay errores de scroll horizontal. -- Modificaciones de display en ciertos elementos que en smartphon quedaban largos, ocultados para vista chica
 
 
+----Paddin al footer-
+----solucionado problema de boton menu ahora funciona perfectamente-
+---Problema con el boton menu salta la palabra mi tienda! a la linea de abajo
+--- palabra mi tienda oculta para dispositivos moviles-
+---parte de descuentos, entregas y mailing solo una por linea en dispositivos moviles.
+
+
+
+
 
 
 
