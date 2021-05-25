@@ -5,4 +5,20 @@ Modifique los titulos de la pagina acorde para cada de seccion como por ejemplo 
 Modificaciones Footer color y container-fluid-
 Modificaciones en las secciones carnes,vegetales y lacteos (Productos en cards)-
 Footer Redes sociales con  target="_blank"-
+---------
+h1 agregados en las secciones lacteos, vegetales y carnes-- y registro y contacto--
+Registro y contacto modificado en su totalidad.
+-
+descriptions y keywords agregadas a todas las html
+-
+h1 en todas las secciones-
+Arreglado vista movil de barra de busqueda y botones superiores-
+Agregadas descriciones en cada pagina de secciones y precios a productos-
+Agregado mapa ubicacion- no pude darle margen al mapa+-
+Agregada seccion empresa a la cual se accede desde el footer con historia de la empresa-
+Ya no hay errores de scroll horizontal.
+
+
+
+
 
