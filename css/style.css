@@ -1,22 +1,27 @@
 .bg {
-  background-color: black; }
+  background-color: black;
+}
 
 ul li {
   list-style-type: none;
-  color: blue; }
+  color: blue;
+}
 
 a {
   outline: none;
   text-decoration: none;
-  color: black; }
+  color: black;
+}
 
-.imgscala:hover {
+/* imgscala:hover {
   transition: all 1s;
-  transform: scale(1.2, 1.2); }
+  transform: scale(1.2, 1.2); } */
 
 .imgtraslade:active {
   transition: all 1s;
-  transform: scale(2) rotate(360deg); }
+  transform: scale(2) rotate(360deg);
+}
 
 .fond-footer {
-  background-color: #616568; }
+  background-color: #616568;
+}
